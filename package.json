@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-stone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "mongojs": "^1.4.1",
+    "restify": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushcoder/nodejs-stone.git"
+  },
+  "author": "sunhellc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushcoder/nodejs-stone/issues"
+  },
+  "homepage": "https://github.com/rushcoder/nodejs-stone#readme"
+}
